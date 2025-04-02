@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23975042891",
+    "project_id": "rebottle-8fc02",
+    "storage_bucket": "rebottle-8fc02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23975042891:android:2bc4322c93a6636aa692ce",
+        "android_client_info": {
+          "package_name": "com.example.rebottle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnMbXfpS7Js-1BUWSXnSotyrX9A-O9NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
